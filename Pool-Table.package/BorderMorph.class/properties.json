@@ -1,0 +1,15 @@
+{
+	"category" : "Pool-Table",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertical",
+		"inner" ],
+	"name" : "BorderMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

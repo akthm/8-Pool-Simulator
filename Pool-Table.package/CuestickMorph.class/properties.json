@@ -1,0 +1,23 @@
+{
+	"category" : "Pool-Table",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cueMorph",
+		"angle",
+		"ancor",
+		"angleMorph",
+		"v",
+		"VButton",
+		"mouseIn",
+		"mouseEvent",
+		"angleFreeze",
+		"freezePos" ],
+	"name" : "CuestickMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"fixBallOverlapbetween:and:" : "AD 6/11/2023 17:04",
+		"fixOverlapBorder:WithBall:" : "AD 6/4/2023 18:11",
+		"handleCollision:with:" : "AD 6/9/2023 03:59",
+		"rotate:toAngle:" : "AD 6/1/2023 22:45",
+		"slowingVar" : "AD 6/2/2023 00:52" },
+	"instance" : {
+		"collideWithBall:" : "AD 6/1/2023 19:31",
+		"collidwithBorder:" : "AD 6/4/2023 18:11",
+		"initialize" : "AD 6/1/2023 19:23",
+		"initializeWithImagePath:" : "AD 5/31/2023 02:15",
+		"isCollidedwithBall:" : "AD 6/1/2023 22:29",
+		"isCollidedwithBorder:" : "AD 6/3/2023 03:50",
+		"isCollidedwithHole:" : "AD 6/11/2023 17:10",
+		"move" : "AD 6/3/2023 21:32",
+		"setV:" : "AD 6/1/2023 20:26",
+		"v" : "AD 6/1/2023 19:12",
+		"vX:" : "AD 6/9/2023 04:20",
+		"vY:" : "AD 6/9/2023 04:20" } }

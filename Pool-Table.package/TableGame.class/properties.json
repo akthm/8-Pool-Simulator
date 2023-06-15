@@ -1,0 +1,25 @@
+{
+	"category" : "Pool-Table",
+	"classinstvars" : [
+		"ballSize",
+		"tableMorph" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tableMorph",
+		"holeTable",
+		"borderTable",
+		"ballTable",
+		"terminate",
+		"pause",
+		"pauseMorph",
+		"inCounter",
+		"counterMorph",
+		"cuestickMorph",
+		"window" ],
+	"name" : "TableGame",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

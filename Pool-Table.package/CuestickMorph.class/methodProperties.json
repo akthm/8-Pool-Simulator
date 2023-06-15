@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"angle" : "AD 6/3/2023 02:42",
+		"angleFrozen" : "AD 6/9/2023 03:03",
+		"freezeAngleOnPos:" : "AD 6/9/2023 03:07",
+		"getMouseEvent:" : "AD 6/8/2023 17:40",
+		"initializeWithAncor:" : "AD 6/9/2023 04:12",
+		"leaveMouse" : "AD 6/9/2023 04:10",
+		"mouseIn" : "AD 6/8/2023 17:50",
+		"reposition" : "AD 6/9/2023 04:02",
+		"setAngle:" : "AD 6/9/2023 02:47",
+		"setV:" : "AD 6/9/2023 04:14",
+		"unFreezeAngle" : "AD 6/9/2023 03:03",
+		"updateAngle" : "AD 6/9/2023 03:53",
+		"updateV" : "AD 6/9/2023 04:14",
+		"v" : "AD 6/3/2023 03:03" } }

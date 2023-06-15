@@ -1,0 +1,3 @@
+mouseHandling
+handlesMouseMove: anEvent
+	^true

@@ -1,0 +1,3 @@
+testing
+isInner
+	^inner.
